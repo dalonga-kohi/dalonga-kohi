@@ -49,17 +49,6 @@ I study Technical Physics at AGH University of Krakow and hold a technikum diplo
 
 **Also:** Active Directory, FTP server configuration, OSI / TCP-IP model, computer hardware servicing.
 
-## Projects
-
-### [Snake in C](https://github.com/dalonga-kohi/snake-in-c)
-Simple Snake game for terminal. **Stack:** `C`
-
-### [Mines](https://github.com/dalonga-kohi/mines)
-Minesweeper Game. **Stack:** `C++`, `Visual Studio`
-
-### [Trynity Landing Page](https://github.com/dalonga-kohi/trynity-page)
-Landing Page for a company. **Stack:** `JS`, `Gatsby`, `Tailwind`
-
 ## Experience
 - **Intern, BlockchainWares** (2024)
 - **Intern, ArcelorMittal** (2023)
