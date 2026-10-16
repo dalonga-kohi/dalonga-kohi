@@ -51,14 +51,14 @@ I study Technical Physics at AGH University of Krakow and hold a technikum diplo
 
 ## Projects
 
-### [Project name](LINK)
-One-line description of what it does and why. **Stack:** `tech`, `tech`
+### [Snake in C](https://github.com/dalonga-kohi/snake-in-c)
+Simple Snake game for terminal. **Stack:** `C`
 
-### [Project name](LINK)
-One-line description of what it does and why. **Stack:** `tech`, `tech`
+### [Mines](https://github.com/dalonga-kohi/mines)
+Minesweeper Game. **Stack:** `C++`, `Visual Studio`
 
-### [Project name](LINK)
-One-line description of what it does and why. **Stack:** `tech`, `tech`
+### [Trynity Landing Page](https://github.com/dalonga-kohi/trynity-page)
+Landing Page for a company. **Stack:** `JS`, `Gatsby`, `Tailwind`
 
 ## Experience
 - **Intern, BlockchainWares** (2024)
