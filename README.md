@@ -16,12 +16,6 @@
 
 I study Technical Physics at AGH University of Krakow and hold a technikum diploma as an IT technician (INF.02 and INF.03 qualifications). I enjoy the space between physics and computing: understanding how systems work, then building tools around them.
 
-My background is practical. I have done internships at ArcelorMittal and at a local computer service company, I configure Cisco networking equipment and Linux and Windows Server environments, and I write code in C++, Python, JavaScript and Rust.
-
-I also work with AI coding agents such as Claude Code. I set the direction, test the results and review the code, and I treat the agent as a tool rather than a replacement for understanding what I ship.
-
-I am looking for an IT role in the Kraków / Dąbrowa Górnicza area (support, administration or development).
-
 ## Tech stack
 
 **Languages**
@@ -57,8 +51,6 @@ I am looking for an IT role in the Kraków / Dąbrowa Górnicza area (support, a
 
 ## Projects
 
-> Projects are being added. Each entry below is a placeholder.
-
 ### [Project name](LINK)
 One-line description of what it does and why. **Stack:** `tech`, `tech`
 
@@ -69,22 +61,14 @@ One-line description of what it does and why. **Stack:** `tech`, `tech`
 One-line description of what it does and why. **Stack:** `tech`, `tech`
 
 ## Experience
-
+- **Intern, BlockchainWares** (2024)
 - **Intern, ArcelorMittal** (2023)
 - **Intern, Bartcomp** (2022)
 
 ## Education
 
 - **AGH University of Krakow**, Technical Physics (BSc), 2025 – present
-- **Technical School Complex (Techniczne Zakłady Naukowe), Dąbrowa Górnicza**, IT technician, 2021 – 2025 (INF.02, INF.03)
-
-## Certificates and achievements
-
-- Cisco routers and switches course certificate (2022)
-- IT technician diploma (2025)
-- Outstanding Speaker Award, Hoffmanowa Model United Nations (2024)
-- 3rd place, voivodeship foreign language competition "I ty możesz zostać poliglotą" (2023)
-- Erasmus+ participant
+- **Techniczne Zakłady Naukowe, Dąbrowa Górnicza**, IT technician, 2021 – 2025 (INF.02, INF.03)
 
 ## Languages
 
