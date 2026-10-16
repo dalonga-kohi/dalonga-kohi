@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Seba 👋</h1>
+<h1 align="center">Hi, I'm Sebastian 👋</h1>
 
 <p align="center">
   Technical Physics student at AGH University of Krakow · IT technician<br>
